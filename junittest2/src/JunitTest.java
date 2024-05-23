@@ -18,5 +18,7 @@ public class JunitTest {
 			}
 			return a / b;
 		}
+		
+		System.out.println("프로젝트를 수정해 보았습니다.")
 	
 }
